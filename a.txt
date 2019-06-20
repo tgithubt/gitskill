@@ -1,2 +1,2 @@
 init the file 
-this is a new new add line at dev & branch
+this is a new add line at dev and branch
